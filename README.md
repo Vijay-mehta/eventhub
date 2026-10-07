@@ -6,7 +6,7 @@ A full-stack web portal where users browse events and book tickets, and admins m
 - **Backend:** Node.js, Express, TypeScript
 - **Databases:** MongoDB (events), PostgreSQL (bookings), Redis (cache, seat holds, rate limits)
 
-> **Demo video:** ''  |  **API docs (Swagger):** `http://localhost:4000/api/docs` after you start the backend
+> **Demo video:** https://drive.google.com/file/d/1dMX9AFRNmyQwwi_P3X7w0Hylzygl0ohS/view?usp=drive_link  |  **API docs (Swagger):** `http://localhost:4000/api/docs`
 
 ---
 
